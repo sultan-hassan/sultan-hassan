@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Sultan 👋
+
+I'm a NASA Hubble Fellow at CCPP, Physics NYU.
 
 <!--
 **sultan-hassan/sultan-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
