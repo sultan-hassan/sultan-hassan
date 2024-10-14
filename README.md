@@ -1,9 +1,11 @@
 ## Hi I'm Sultan 👋
 
-I'm a NASA Hubble Fellow at CCPP, Physics NYU, and also KaggleX Fellow at Kaggle/Google where I work on developing a Cosmology Chabot using Gemma open models (https://ai.google.dev/gemma).
+I'm a NASA Hubble Fellow at CCPP, Physics NYU, and also KaggleX Fellow (Cohort 4) at Kaggle/Google.
 
-- 📫 How to reach me: sultan.hassan@nyu.edu
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on developing a Cosmology Chabot using Gemma open models (https://ai.google.dev/gemma).
+- 🌱 I’m currently learning cloud computing and robustness in Statistics.
+- 📫 How to reach me: sultan.hassan@nyu.edu.
+- 😄 Pronouns: he/him.
   
 <!--
 **sultan-hassan/sultan-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
