@@ -1,6 +1,6 @@
 ## Hi I'm Sultan 👋
 
-I'm a NASA Hubble Fellow at CCPP, Physics NYU.
+I'm a NASA Hubble Fellow at CCPP, Physics NYU, and also KaggleX Fellow at Kaggle/Google where I work on developing Cosmology Chabot using state-of-the-art LLMs.
 
 <!--
 **sultan-hassan/sultan-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
