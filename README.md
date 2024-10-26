@@ -1,6 +1,6 @@
 ## Hi I'm Sultan 👋
 
-I'm a NASA Hubble Fellow at CCPP/Physics NYU, and KaggleX Fellow (Cohort 4) at Kaggle/Google.
+I'm a NASA Hubble Fellow at CCPP/Physics NYU, and a KaggleX Fellow (Cohort 4) at Kaggle/Google.
 
 - 🔭 I’m currently working on developing a cosmology chabot using Gemma open models (https://ai.google.dev/gemma).
 - 🌱 I’m currently learning cloud computing and robustness in statistics.
