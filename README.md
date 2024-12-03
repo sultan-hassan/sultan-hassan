@@ -3,7 +3,7 @@
 I'm a NASA Hubble Fellow at CCPP/Physics NYU, and a KaggleX Fellow (Cohort 4) at Kaggle/Google.
 
 - 🔭 I’m currently working on developing a cosmology chabot using Gemma open models (https://ai.google.dev/gemma). See here: https://github.com/sultan-hassan/CosmoGemma
-- 🌱 I’m currently focused on out-of-distribution, robustness, mechanistic interpretability, and AI Safety.
+- 🌱 I’m currently focused on out-of-distribution, robustness, mechanistic interpretability of LLMs, and AI Safety.
 - 📫 How to reach me: sultan.hassan@nyu.edu.
 - 📖 Learn more about my research: https://sultan-hassan.github.io
 - 😄 Pronouns: he/him.
